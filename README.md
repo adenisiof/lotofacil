@@ -1,4 +1,5 @@
 Descricao
+Projeto em Excel.
 Tabela criada para acompanhar resultados da lotofacil e por meio de analise cientifico de dados, busca aumentar a probabilidade  de acertos do jogo.
 Foram avaliados os seguintes dados:
 Não se repetiu resultados identicos durante toda vida do jogo.
